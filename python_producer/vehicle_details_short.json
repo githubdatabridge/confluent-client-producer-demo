@@ -1,0 +1,7 @@
+[
+    {"vehicle_id": 1, "driver_name": "Alex Turner"},
+    {"vehicle_id": 5, "driver_name": "Sarah Mitchell"},
+    {"vehicle_id": 15, "driver_name": "Carlos Rodriguez"},
+    {"vehicle_id": 20, "driver_name": "Emily White"},
+    {"vehicle_id": 25, "driver_name": "Jason Anderson"}
+]
